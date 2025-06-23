@@ -69,8 +69,6 @@ Validação de dados do usuário
 Encontrou um bug ou quer sugerir melhorias? Sinta-se à vontade para abrir issues ou enviar pull requests!
 
 <p align="center"> <i>Desenvolvido por <a href="https://github.com/BernardoBorbaR">Bernardo Borba</a></i> </p> 
-Esse é o texto COMPLETO para ser colado no seu README.md.
-Se quiser modificar ou acrescentar alguma seção, pode pedir!
 
 Nenhum arquivo escolhidoNenhum arquivo escolhido
 me mande isso tudo em formato readme.md
